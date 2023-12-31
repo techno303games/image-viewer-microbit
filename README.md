@@ -1,4 +1,4 @@
-> VIEW DEAFULT PAGE: https://techno303games.github.io/image-viewer-microbit/](https://techno303games.github.io/image-viewer-microbit/
+> VIEW DEAFULT PAGE: https://techno303games.github.io/image-viewer-microbit/
 
 > VIEW WIKI ARTICLE: https://github.com/techno303games/image-viewer-microbit/wiki
 
